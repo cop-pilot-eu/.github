@@ -16,7 +16,7 @@ As an Innovation Action funded under the EU HORIZON program, COP-PILOT aims to d
 * [Compute controller](http://multi-domain-orch.cop-pilot.rid-intrasoft.eu)  -->
 
 ## CI/CD Services
-
+* [Documentation](https://github.com/cop-pilot-eu/cicd-documentation) : CI/CD Documentations
 * [Jenkins](https://jenkins.cop-pilot.rid-intrasoft.eu) : CI/CD Automation Server
 * [Harbor](https://harbor.cop-pilot.rid-intrasoft.eu) : Container Image Registry
 * [Portainer](https://portainer.cop-pilot.rid-intrasoft.eu) : Container Management System
