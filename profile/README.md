@@ -27,3 +27,9 @@ As an Innovation Action funded under the EU HORIZON program, COP-PILOT aims to d
 * [LinkedIn](https://www.linkedin.com/company/cop-pilot-horizon/)
 * [Mastodon](https://mastodon.social/@COP_PILOT_Horizon)
 * [Youtube](https://www.youtube.com/@COP-PILOT)
+
+
+##  COP-PILOT Central Management Domain
+
+* [ESO](https://portal.multi-domain-orchestrator.cop-pilot.rid-intrasoft.eu/)
+* [SIF](https://cop-pilot.cloudziti.io)
