@@ -31,3 +31,6 @@ As such, COP-PILOT adds novel AI-driven tools, SLA-preserving automation, and se
 * [End-to-End Service Orchestrator (ESO)](https://portal.multi-domain-orchestrator.cop-pilot.rid-intrasoft.eu/)
 * [Secure Integration Fabric (SIF)](https://cop-pilot.cloudziti.io)
 * [Business Management Portal (BMP)](https://business.portal.cop-pilot.rid-intrasoft.eu)
+
+##  COP-PILOT Open Calls Documentation
+* [Open Calls Documentation](https://github.com/cop-pilot-eu/oc-technical-documentation/tree/main)
